@@ -1,4 +1,4 @@
-### Hi there 🙋🏻
+### Hi 🙋🏻
 
 My name is Shou (he/him) :) 
 
@@ -8,10 +8,3 @@ gamer 🎮
 gardener 🪴
 photographer 📸
 cat dad 🐈‍⬛🐈
-
-`Shou:{
-pets:[Cabbage🐈‍⬛, Beans🐈],
-hobbies:[PC Gaming 🎮,
-Gardening 🪴,
-Photography 📸]`
-
