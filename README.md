@@ -9,7 +9,7 @@ gardener 🪴
 photographer 📸
 cat dad 🐈‍⬛🐈
 
-Markup :  `Shou:{
+`Shou:{
 pets:[Cabbage🐈‍⬛, Beans🐈],
 hobbies:[PC Gaming 🎮,
 Gardening 🪴,
