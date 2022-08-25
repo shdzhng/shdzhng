@@ -8,3 +8,9 @@ gamer 🎮
 gardener 🪴
 photographer 📸
 cat dad 🐈‍⬛🐈
+
+Markup :  `code({
+gamer 🎮
+gardener 🪴
+photographer 📸
+cat dad 🐈‍⬛🐈})`
