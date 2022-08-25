@@ -9,8 +9,9 @@ gardener 🪴
 photographer 📸
 cat dad 🐈‍⬛🐈
 
-Markup :  `code({
-gamer 🎮
-gardener 🪴
-photographer 📸
-cat dad 🐈‍⬛🐈})`
+Markup :  `Shou:{
+pets:[Cabbage🐈‍⬛, Beans🐈],
+hobbies:[PC Gaming 🎮,
+Gardening 🪴,
+Photography 📸]
+
