@@ -3,6 +3,8 @@ My name is Shou (he/him) and I am a Junior Frontend Develope based in Los Angele
 
 My background is rooted in the Museum and Social Science where I hold a Master's degree in Tourism, Society and Environment from Wageningen University in the Netherlands. I've always held an innate intrigue for how society and individuals engage with built spaces and I'm excited be pivoting my interests towards digital spaces!
 
+Checkout my <a href='https://www.linkedin.com/in/shouzhang/'>portfolio</a>!
+
 Technologies: 
 HTML, CSS, Javascript, React, Redux Toolkit, NPM, REST API, Git/Github, Chart.js, Styled-Components, GraphQL/Apollo, Firebase/Firestore
 
