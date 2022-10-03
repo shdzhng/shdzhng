@@ -15,5 +15,5 @@ When I'm not coding I enjoy:
         <li>🎮 Gaming</li>
         <li>📷 Photography </li>
         <li>🥾 Hiking and Camping</li>
-        <li>📖 Reading</li>
+        <li>📖 Reading (currently: 'There is no Planet B', 'Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World')</li>
       </ul>
