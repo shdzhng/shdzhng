@@ -6,7 +6,7 @@ My background is rooted in the Museum and Social Science where I hold a Master's
 Checkout my <a href='https://shdzhng.dev/' target='__blank'>portfolio</a>!
 
 Technologies: 
-HTML, CSS, Javascript, React, Redux Toolkit, NPM, REST API, Git/Github, Chart.js, Styled-Components, GraphQL/Apollo, Firebase/Firestore
+JavaScript, TypeScript, HTML5, CSS3, React/Redux, Next.js, NPM, REST API, MongoDB, Git/Github, Chart.js, Styled-Components, GraphQL/Apollo, Firebase/Firestore
 
 When I'm not coding I enjoy:
       <ul>
